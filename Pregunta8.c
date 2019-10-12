@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
@@ -50,7 +49,3 @@ int main(void){
     printf("%d monedas de 1\n",m1);
     printf("%d monedas de 0.5\n",mc);
 }
-
-
-
-
